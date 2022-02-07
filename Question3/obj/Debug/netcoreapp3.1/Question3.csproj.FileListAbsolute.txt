@@ -1,0 +1,13 @@
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\bin\Debug\netcoreapp3.1\Question3.exe
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\bin\Debug\netcoreapp3.1\Question3.deps.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\bin\Debug\netcoreapp3.1\Question3.runtimeconfig.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\bin\Debug\netcoreapp3.1\Question3.runtimeconfig.dev.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\bin\Debug\netcoreapp3.1\Question3.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\bin\Debug\netcoreapp3.1\Question3.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\obj\Debug\netcoreapp3.1\Question3.csprojAssemblyReference.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\obj\Debug\netcoreapp3.1\Question3.AssemblyInfoInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\obj\Debug\netcoreapp3.1\Question3.AssemblyInfo.cs
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\obj\Debug\netcoreapp3.1\Question3.csproj.CoreCompileInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\obj\Debug\netcoreapp3.1\Question3.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\obj\Debug\netcoreapp3.1\Question3.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Assignments\LambdaExpressionAndLinq\Question3\obj\Debug\netcoreapp3.1\Question3.genruntimeconfig.cache
